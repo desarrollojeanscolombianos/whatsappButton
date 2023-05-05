@@ -5,7 +5,7 @@ Esta carpeta contiene dos archivos botonNew.html permite probar en entornos loca
 Implementacion
 Para utilizar agregar al sitio de wordpress el código, es necesario seguir los siguientes pasos:
 
-    1- Agrega el script de js en /public/wp-content/themes/shoptimizer$/header.php despues de la ultima linea
+    1- Agrega el script de js y html en el footer section de perfmatters
     2- Agregar codigo CSS en personalizar apariencia - css personalizado
 
-Este código se distribuye bajo la licencia MIT en el aspecto de utilizacio de la API ip-api.
+
